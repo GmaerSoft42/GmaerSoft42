@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hi there! I’m @GmaerSoft42.
 
-<!--
-**GmaerSoft42/GmaerSoft42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on my repository, /GmaerSoft42/WareSoft Link URL: [https://github.com/GmaerSoft42/WareSoft](https://github.com/GamerSoft24/Software)
+- 
+- 👀 I’m interested in coding, gaming and technology stuff.
+- 
+- 🌱 I own GmaerSoftware Corporation®.
+- 
+- 💞️ I’m collaborating with meque1Ok (@meque1Ok) and SS-GT (@SS-GT) as it is my and Okmeque1's shared account.
+- 
+- 💬 Ask me if you want to change my repositories or just pull request it.
+- 
+- 📫 Reach me by email: gmaersoftware.corp@gmail.com.
+- 
+- 🧾 My alt account is AltGmaer42 (@AltGmaer42) and it is used if this account is unreachable.
