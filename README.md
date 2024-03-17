@@ -7,7 +7,7 @@
 
 - 🌱 I own GmaerSoftware Corporation®.
 
-- 💞️ I’m collaborating with meque1Ok (@meque1Ok) and SS-GT (@SS-GT) as it is my and Okmeque1's shared account.
+- 💞️ I’m collaborating with meque1Ok (@meque1Ok) and SS-GT (@SS-GT) as it is my and meque1Ok's shared account.
 
 - 💬 Ask me if you want to change my repositories or just pull request it.
 
