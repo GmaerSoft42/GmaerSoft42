@@ -1,0 +1,7 @@
+video playback
+right left arrow keys = 5 seconds back/forward
+up down arrow keys = volume up/dowm
+home key = start of video
+end key = end of video
+space = pause
+GUI and drag and drop file to play (tkinter?)
