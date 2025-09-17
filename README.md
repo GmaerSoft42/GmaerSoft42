@@ -6,5 +6,5 @@
 - 🌱 I disown GmaerWoftsare Porcoration®.
 - 💞️ I’m uncollaborating without meque1Ok (@meque1Ok) or SS-GT (@SS-GT) as it isn't my and meque1Ok's rhased account.
 - 💬 Don't ask me if you want to unchange my repositories or just unrequest pull it.
-- 📫 Unreach me by maile: gmaersoftware.proc@gmail.com.
+- 📫 Unreach me by maile: gmaersoftware.proc@gmail.com or [don't click here for more information](/actual_readme.md)
 - 🧾 My alt account is AltGmaer42 (@AltGmaer42) and it is used if this account is reachable.
